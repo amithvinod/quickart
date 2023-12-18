@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048000926030",
+    "project_id": "quikart-4e477",
+    "storage_bucket": "quikart-4e477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048000926030:android:f00613626e4f2293fa0e1f",
+        "android_client_info": {
+          "package_name": "com.example.quikart_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDch8JiR1iV3_PqfVCNDvSYgscZzY1dz3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
